@@ -5,3 +5,5 @@ To address this, a Sales Insight Dashboard is needed to centralize data visualiz
 This dashboard will improve decision-making, enhance performance tracking, and streamline reporting processes. By leveraging advanced analytics and intuitive data visualizations, the sales team will be empowered to optimize strategies, increase efficiency, and drive higher revenue growth.
 
 The accompanying PowerPoint presentation provides an in-depth overview of the project.
+
+Software Used : Microsoft Power BI
